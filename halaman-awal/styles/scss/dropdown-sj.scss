@@ -1,0 +1,123 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36.8rem;
+}.dropdown-sj-SSL {
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 2rem 2rem 9.6rem 2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  .property-1tutup-NKz {
+    margin-bottom: 1.9rem;
+    font-family: Manjari, 'Source Sans Pro';
+    border-radius: 1.2rem;
+    height: 4.8rem;
+    font-size: 1.4rem;
+    cursor: pointer;
+    align-items: center;
+    box-shadow: 0 3.5rem 4rem rgba(0, 0, 0, 0.0500000007);
+    flex-shrink: 0;
+    width: 14.6rem;
+    font-weight: 700;
+    line-height: 1.1725;
+    color: #1b1414;
+    white-space: nowrap;
+    display: flex;
+    justify-content: center;
+  }
+  .property-1buka-RZA {
+    flex-shrink: 0;
+    width: 14.6rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    .buka-NzC {
+      width: 100%;
+      cursor: pointer;
+      justify-content: center;
+      flex-shrink: 0;
+      font-size: 1.4rem;
+      line-height: 1.1725;
+      color: rgba(24, 119, 242, 0.8500000238);
+      display: flex;
+      box-shadow: 0 3.5rem 4rem rgba(0, 0, 0, 0.0500000007);
+      border-radius: 1.2rem;
+      margin-bottom: 0.8rem;
+      height: 4.8rem;
+      font-weight: 700;
+      align-items: center;
+      font-family: Manjari, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .buka-46L {
+      align-items: center;
+      display: flex;
+      border: solid 0.05rem rgba(0, 0, 0, 0.200000003);
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.2rem 2.45rem 2.1rem 2.45rem;
+      width: 100%;
+      row-gap: 2.3rem;
+      flex-direction: column;
+      box-shadow: 0 3.5rem 4rem rgba(0, 0, 0, 0.0500000007);
+      background-color: #ffffff;
+      border-radius: 1.2rem;
+
+      .sparing-Bgk {
+        line-height: 1.1725;
+        color: rgba(24, 119, 242, 0.8500000238);
+        font-family: Manjari, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.4rem;
+        font-weight: 700;
+      }
+      .jadwal-latihan-86C {
+        font-size: 1.4rem;
+        font-weight: 700;
+        line-height: 1.1725;
+        color: rgba(24, 119, 242, 0.8500000238);
+        font-family: Manjari, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .tournament-fM2 {
+        font-size: 1.4rem;
+        font-weight: 700;
+        line-height: 1.1725;
+        color: rgba(24, 119, 242, 0.8500000238);
+        font-family: Manjari, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .kejuaraan-ayn {
+        flex-shrink: 0;
+        font-size: 1.4rem;
+        font-weight: 700;
+        line-height: 1.1725;
+        color: rgba(24, 119, 242, 0.8500000238);
+        font-family: Manjari, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+    }
+  }
+}

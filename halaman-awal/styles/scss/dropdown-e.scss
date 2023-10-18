@@ -1,0 +1,114 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36.8rem;
+}.dropdown-e-ipY {
+  box-sizing: border-box;
+  padding: 2rem 2rem 13.6rem 2rem;
+  overflow: hidden;
+  border-radius: 0.5rem;
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+
+  .property-1tutup-2aL {
+    width: 14.6rem;
+    height: 4.8rem;
+    cursor: pointer;
+    font-size: 1.4rem;
+    white-space: nowrap;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-bottom: 1.9rem;
+    font-weight: 700;
+    line-height: 1.1725;
+    display: flex;
+    align-items: center;
+    border-radius: 1.2rem;
+    color: #1b1414;
+    font-family: Manjari, 'Source Sans Pro';
+    box-shadow: 0 3.5rem 4rem rgba(0, 0, 0, 0.0500000007);
+  }
+  .property-1buka-fdJ {
+    flex-direction: column;
+    flex-shrink: 0;
+    width: 14.6rem;
+    align-items: center;
+    display: flex;
+
+    .buka-1hA {
+      margin-bottom: 0.8rem;
+      width: 100%;
+      cursor: pointer;
+      font-family: Manjari, 'Source Sans Pro';
+      border-radius: 1.2rem;
+      height: 4.8rem;
+      line-height: 1.1725;
+      align-items: center;
+      flex-shrink: 0;
+      font-weight: 700;
+      display: flex;
+      font-size: 1.4rem;
+      color: rgba(24, 119, 242, 0.8500000238);
+      white-space: nowrap;
+      justify-content: center;
+      box-shadow: 0 3.5rem 4rem rgba(0, 0, 0, 0.0500000007);
+    }
+    .buka-Gsz {
+      box-sizing: border-box;
+      padding: 2.2rem 1.7rem 2.1rem 1.7rem;
+      width: 100%;
+      row-gap: 2.3rem;
+      display: flex;
+      border: solid 0.05rem rgba(0, 0, 0, 0.200000003);
+      box-shadow: 0 3.5rem 4rem rgba(0, 0, 0, 0.0500000007);
+      background-color: #ffffff;
+      border-radius: 1.2rem;
+      flex-shrink: 0;
+      align-items: center;
+      flex-direction: column;
+
+      .introduction-ngiht-CWk {
+        font-size: 1.4rem;
+        font-weight: 700;
+        line-height: 1.1725;
+        color: rgba(24, 119, 242, 0.8500000238);
+        font-family: Manjari, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .fun-game-89W {
+        font-weight: 700;
+        line-height: 1.1725;
+        color: rgba(24, 119, 242, 0.8500000238);
+        font-family: Manjari, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.4rem;
+      }
+      .diklat-TSg {
+        font-weight: 700;
+        line-height: 1.1725;
+        color: rgba(24, 119, 242, 0.8500000238);
+        font-family: Manjari, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.4rem;
+      }
+    }
+  }
+}
